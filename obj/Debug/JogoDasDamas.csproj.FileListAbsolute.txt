@@ -1,0 +1,12 @@
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\bin\Debug\JogoDasDamas.exe.config
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\bin\Debug\JogoDasDamas.exe
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\bin\Debug\JogoDasDamas.pdb
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.Properties.Resources.resources
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.exe
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.pdb
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.MenuInicial.resources
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.Historico.resources
+C:\Users\migue\Desktop\ATEC_TPSI\CSharp\WinForm\JogoDasDamas\obj\Debug\JogoDasDamas.Jogo.resources
